@@ -1,4 +1,4 @@
-##👋 Hi, I'm Guo Bowen!  
+## 👋 Hi, I'm Guo Bowen!  
 - **PhD Student**: Biomedical Engineering, Fudan University  
 - **Research Area**: Medical Imaging & Generative Diffusion Models  
 - **Interests**:  
