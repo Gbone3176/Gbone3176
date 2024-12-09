@@ -6,25 +6,8 @@
   - Computer Vision  
   - Healthcare Applications  
 - **Goal**: Integrate innovative algorithms with clinical needs
-<table>
-  <tr>
-    <td style="width: 50%; vertical-align: top;">
-      <!-- Your text content here -->
-      👋 Hi, I'm Guo Bowen!  
-      - **PhD Student**: Biomedical Engineering, Fudan University  
-      - **Research Area**: Medical Imaging & Generative Diffusion Models  
-      - **Interests**:  
-        - Deep Learning  
-        - Computer Vision  
-        - Healthcare Applications  
-      - **Goal**: Integrate innovative algorithms with clinical needs
-    </td>
-    <td style="width: 50%; vertical-align: top;">
-      <!-- GitHub Stats -->
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbone3176)](https://github.com/anuraghazra/github-readme-stats)
-    </td>
-  </tr>
-</table>
+  <!-- GitHub Stats -->
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbone3176)](https://github.com/anuraghazra/github-readme-stats)
 💻 Here, you'll find:  
 - Research findings  
 - Code implementations  
