@@ -15,7 +15,4 @@
 🌐 [Visit my personal homepage](https://gbone3176.github.io/)  
 
 📫 Feel free to reach out if you want to connect!
-
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.2.0
             
