@@ -6,8 +6,10 @@
   - Computer Vision  
   - Healthcare Applications  
 - **Goal**: Integrate innovative algorithms with clinical needs
-  <!-- GitHub Stats -->
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbone3176)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- GitHub Stats -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbone3176)](https://github.com/anuraghazra/github-readme-stats)
+  
 💻 Here, you'll find:  
 - Research findings  
 - Code implementations  
