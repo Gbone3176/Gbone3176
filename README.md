@@ -6,10 +6,15 @@
   - Computer Vision  
   - Healthcare Applications  
 - **Goal**: Integrate innovative algorithms with clinical needs
+  
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-readme-stats.vercel.app/api?username=gbone3176">
-    <img align="right" width="50%" src="github-readme-stats.vercel.app/api?username=gbone3176">
+    <!-- Dark Mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gbone3176&show_icons=true&hide=prs,issues&count_private=true">
+    <!-- Light Mode -->
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=gbone3176&show_icons=true&hide=prs,issues&count_private=true">
 </picture>
+
+
 💻 Here, you'll find:  
 - Research findings  
 - Code implementations  
