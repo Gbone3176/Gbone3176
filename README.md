@@ -7,14 +7,13 @@
   - Healthcare Applications  
 - **Goal**: Integrate innovative algorithms with clinical needs
   
-<!-- <picture>
+<picture>
     <!-- Dark Mode -->
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gbone3176&show_icons=true&hide=prs,issues&count_private=true">
     <!-- Light Mode -->
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=gbone3176&show_icons=true&hide=prs,issues&count_private=true">
-</picture> -->
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gbone3176&show_icons=true&hide=prs,issues&count_private=true" />
 
 
 💻 Here, you'll find:  
