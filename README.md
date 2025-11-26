@@ -8,12 +8,21 @@
 - **Goal**: Integrate innovative algorithms with clinical needs
   
 <picture>
-    <!-- Dark Mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gbone3176&show_icons=true&hide=prs,issues&count_private=true">
-    <!-- Light Mode -->
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=gbone3176&show_icons=true&hide=prs,issues&count_private=true">
+  <!-- 深色模式 -->
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-stats.vercel.app/api?username=gbone3176&show_icons=true&hide=prs,issues&count_private=true&theme=dark">
+  <!-- 浅色模式 -->
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github-readme-stats.vercel.app/api?username=gbone3176&show_icons=true&hide=prs,issues&count_private=true&theme=default">
+  <!-- 最终回退（当浏览器不支持picture或都不匹配时显示） -->
+  <img 
+    align="right" 
+    width="50%" 
+    src="https://github-readme-stats.vercel.app/api?username=gbone3176&show_icons=true&hide=prs,issues&count_private=true&theme=default" 
+    alt="gbone3176's GitHub stats">
 </picture>
-
 
 💻 Here, you'll find:  
 - Research findings  
